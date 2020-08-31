@@ -1,4 +1,4 @@
-Implementing PIC (Microcontroller) LCD Display using printf function in XC8 compiler
+Implementing PIC (Microcontroller) LCD Display using printf function with XC8 compiler
 
 This code was created for PIC18F... microcontroller family. 
 To use with other Microcontroller family a small modifications are required
