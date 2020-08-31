@@ -123,10 +123,10 @@ void Display_TurnOn(void){
 }
 
 void liga_back_light(void){
-   H_DISPLAY = 1; //output_high(H_DISPLAY);
+   DISPLAY_BACKLIGHT = 1;
 }
 void desliga_back_light(void){
-   H_DISPLAY = 0; //output_low(H_DISPLAY);
+   DISPLAY_BACKLIGHT = 0;
 }
 
 unsigned char Display_ReadByte(void){ //Read a Byte from Display

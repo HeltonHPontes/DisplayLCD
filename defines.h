@@ -20,6 +20,6 @@
 	#define DISPLAY_D5         RF3//Data pin
 	#define DISPLAY_D6         RF4//Data pin
 	#define DISPLAY_D7         RF6//Data pin  
-	#define H_DISPLAY      RF7//Back light control pin
+	#define DISPLAY_BACKLIGHT      RF7//Back light control pin
 
 #endif
